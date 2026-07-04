@@ -16,7 +16,9 @@
 
 ## О приложении
 
-**GreenFlag** — это Android-приложение для обхода блокировок. Работает в трех режимах:
+###Скачать в Google Play - https://play.google.com/store/apps/details?id=com.needlevpn.app
+
+**NeedleVPN** — это Android-приложение для обхода блокировок. Работает в трех режимах:
 
 - **DPI** — обход блокировки YouTube **без VPN-сервера**.
 - **VPN** — полноценный VPN через наши серверы.
@@ -37,10 +39,10 @@
 
 ## Установка
 
-1. Скачайте последний APK из раздела [Releases](https://github.com/GreenFlagTeam/GreenFlag-VPN/releases/tag/GreenFlagVPN)
+1. Скачайте приложение из Google Play по запросу "needlevpn" или последний APK из раздела [Releases](https://github.com/GreenFlagTeam/GreenFlag-VPN/releases/tag/GreenFlagVPN)
 2. Разрешите установку из неизвестных источников
 3. Откройте скачанный APK и нажмите **Установить**
-4. Запустите **GreenFlag**, войдите по email и пользуйтесь
+4. Запустите **NeedleVPN**, войдите по email и пользуйтесь
 
 ## Реферальная программа
 
@@ -54,11 +56,11 @@
 
 ## Поддержка
 
-По всем вопросам и предложениям — пишите на **supportgreenflag@gmail.com**.
+По всем вопросам и предложениям — пишите на **support.needlevpn@gmail.com**.
 
 ## Приватность
 
-GreenFlag не логирует ваш трафик, не хранит историю посещений и не продаёт данные третьим лицам. Подробнее — в [Политике конфиденциальности](https://greenflag-api.duckdns.org/privacy).
+NeedleVPN не логирует ваш трафик, не хранит историю посещений и не продаёт данные третьим лицам. Подробнее — в [Политике конфиденциальности](https://greenflag-api.duckdns.org/privacy).
 
 ---
 
