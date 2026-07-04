@@ -32,10 +32,10 @@ https://play.google.com/store/apps/details?id=com.needlevpn.app
 ## Скриншоты
 
 <div align="center">
-  <img src="docs/screen-03.jpg" alt="Профиль" width="22%"/>
-  <img src="docs/screen-04.jpg" alt="Стратегии" width="22%"/>
-    <img src="docs/blacklists.jpg" alt="Черный список" width="22%"/>
-  <img src="docs/screen-02.jpg" alt="Настройки" width="22%"/>
+  <img src="docs/4.jpg" alt="Профиль" width="22%"/>
+  <img src="docs/2.jpg" alt="Стратегии" width="22%"/>
+    <img src="docs/3.jpg" alt="Черный список" width="22%"/>
+  <img src="docs/1.jpg" alt="Настройки" width="22%"/>
 </div>
 
 ## Установка
